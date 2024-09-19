@@ -40,4 +40,4 @@ markdown이란?
 
 [고려대학교](http://www.korea.ac.kr, "고려대학교 홈페이지입니다")
 
-![이미지링크]()
+![이미지링크](./image1.jpg)
